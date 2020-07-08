@@ -1,0 +1,154 @@
+<!--
+  ~ Copyright (c) 2019 NECTEC
+  ~   National Electronics and Computer Technology Center, Thailand
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">FFC</string>
+    <string name="app_fullname">Family Folder Collector</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_hint">ชื่อผู้รับบริการ, เลขที่บ้าน</string>
+    <string name="search_house_hint">เลขที่บ้าน</string>
+
+    <string name="retry">ลองอีกครั้ง</string>
+    <string name="please_check_connectivity">กรุณาตรวจสอบการเชื่อมต่อ</string>
+    <string name="cannnot_load_organization">ไม่สามารถโหลดข้อมูลหน่วยงานได้</string>
+    <string name="no_username">กรุณาระบุชื่อผู้ใช้งาน</string>
+    <string name="no_password">กรุณาระบุรหัสผ่าน</string>
+    <string name="checking_identity">ยืนยันตัวตน..</string>
+    <string name="not_found_org">ไม่พบหน่วยงานที่่ค้นหา</string>
+    <string name="please_type_org">กรุณากรอกชื่อหน่วยงาน</string>
+    <string name="identification_error">การยืนยันตัวตนผิดพลาด</string>
+    <string name="organization">หน่วยงาน</string>
+    <string name="next">ถัดไป</string>
+    <string name="you_offline">คุณไม่ได้ต่อเน็ต</string>
+    <string name="version_4_0">Version 4.0</string>
+
+    <string name="username">ชื่อผู้ใช้งาน</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="back">ย้อนกลับ</string>
+    <string name="otp">OTP</string>
+    <string name="otp_hint">กรุณาใส่รหัสผ่าน OTP ที่ได้จาก FFC AirSync เพื่อเป็นการยืนยันตัวตนว่าคุณเป็นเจ้าของบัญชีผู้ใช้งาน</string>
+    <string name="authenticate">ยืนยันตัวตน</string>
+    <string name="diagnosis">วินิจฉัย</string>
+    <string name="vital_sign">สัญญาณชีพ</string>
+    <string name="home_visit">เยี่ยมบ้าน</string>
+    <string name="community_service">บริการชุมชน</string>
+    <string name="general_service">บริการสาธารณสุข</string>
+    <string name="ncd_screen">คัดกรอง NCD</string>
+    <string name="special_pp">ส่งเสริมป้องกัน</string>
+    <string name="search">search</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="device_efdv470">เครื่องมือวัด</string>
+    <string name="action_settings">ตั้งค่า</string>
+
+    <string name="transition_appbar">appbar_transition</string>
+    <string name="transition_photo">photo_transition</string>
+    <string name="transition_app_logo">app_logo_transition</string>
+    <string name="transition_person_profile">person_profile_transition</string>
+    <string name="transition_card">transition_card</string>
+
+    <string name="hs_empty">ไม่มีประวัติการรับบริการ</string>
+    <string name="hs_services">บริการสาธารณสุข</string>
+    <string name="body_height">ส่วนสูง (ซม.)</string>
+    <string name="body_weight">น้ำหนัก (กก.)</string>
+    <string name="body_waist">รอบเอว (ซม.)</string>
+    <string name="body_ass">สะโพก (ซม.)</string>
+    <string name="under_construction">อยู่ระหว่างการพัฒนา</string>
+    <string name="resident_not_found">ไม่พบข้อมูลผู้อยู่อาศัย</string>
+    <string name="save">บันทึก</string>
+    <string name="photo_take">ถ่ายภาพ</string>
+
+    <string name="delete_photo">ลบภาพ</string>
+    <string name="resident">ผู้อยู่อาศัยในบ้าน</string>
+    <string name="photo">รูปภาพ</string>
+    <string name="photo_choose">เลือกภาพ</string>
+    <string name="search_not_found">ไม่พบข้อมูลที่เกี่ยวข้อง</string>
+    <string name="searching">กำลังค้นหา…</string>
+    <string name="dead">เสียชีวิต</string>
+    <string name="death_causes">สาเหตุการเสียชีวิต</string>
+    <string name="death_date">วันที่เสียชีวิต</string>
+    <string name="death_info">ข้อมูลการเสียชีวิต</string>
+    <string name="relationship">ความสัมพันธ์</string>
+    <string name="genogram">ผังเครือญาติ</string>
+    <string name="ht">ความดันโลหิตสูง</string>
+    <string name="dm">เบาหวาน</string>
+    <string name="cvd">ความเสี่ยงโรคหัวใจและหลอดเลือด</string>
+    <string name="adl">กิจวัตรประจำวันของผู้สูงอายุ</string>
+    <string name="fall_risk">ความเสี่ยงภาวะหกล้ม</string>
+    <string name="cataract">ต้อกระจก</string>
+    <string name="glaucoma">ต้อหิน</string>
+    <string name="amd">จอประสาทตาเสื่อ</string>
+    <string name="farsighted">สายตายาว</string>
+    <string name="nearsighted">สายตาสั้น</string>
+    <string name="depression">ซึ่มเศร้า</string>
+    <string name="oa_knee">ข้อเข่าเสื่อม</string>
+    <string name="dementia">สมองเสื่อม</string>
+
+    <string name="health_status">วิเคราะห์ภาวะสุขภาพ</string>
+    <string name="health_status_caption">ผลวิเคราะห์จากประวัติการรับบริการที่มีข้อมูลเกี่ยวข้องกับโรคหรือความเสี่ยงต่างๆ</string>
+    <string name="copyright_nectec">Copyright NECTEC</string>
+    <string name="loading">กำลังดึงข้อมูล…</string>
+    <string name="action_logout">ออกจากระบบ</string>
+    <string name="menu_manage">จัดการ</string>
+    <string name="manual">คู่มือ</string>
+    <string name="about">เกี่ยวกับ</string>
+    <string name="follow">ติดตาม</string>
+    <string name="main_page">หน้าหลัก</string>
+    <string name="achievement">เป้าหมาย</string>
+    <string name="mark_location">พิกัดบ้าน</string>
+    <string name="more">เพิ่มเติม</string>
+    <string name="done">เสร็จสิ้น</string>
+    <string name="update">อัพเดท</string>
+    <string name="close_app">ปิดแอพ</string>
+    <string name="no">ไม่</string>
+    <string name="r_u_sure_to_close_app">คุณต้องการปิดแอพ?</string>
+    <string name="about_legal">เกี่ยวกับกฎหมาย</string>
+    <string name="terms_of_use">ข้อตกลงการใช้งาน</string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="open_source_license">Open Source License</string>
+    <string name="contract_us">ติดต่อเรา</string>
+    <string name="copyright">ลิขสิทธิ์</string>
+    <string name="contribution">การมีส่วนร่วม</string>
+    <string name="please_read">กรุณาอ่านและทำความเข้าใจ</string>
+
+    <string name="report">รายงานเหตุ</string>
+    <string name="category">หมวดหมู่</string>
+    <string name="scene">จุดเกิดเหตุ</string>
+    <string name="detail">รายละเอียด</string>
+    <string name="picture_video">รูปภาพ/วีดีโอ</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="send_report">ส่งรายงาน</string>
+    <string name="bluetooth_title">Bluetooth</string>
+    <string name="search_devices">Search Devices</string>
+    <string name="asm"> อสม </string>
+    <string name="asmMessage"> ยินดีต้อนรับคุณ </string>
+    <string name="incident">แจ้งเหตุ</string>
+    <string name="specifyTheReason">ระบุเหตุ</string>
+    <string name="specifyLocation">กรุณาระบุพิกัด</string>
+    <string name="specifyDetail">พิมพ์รายละเอียดรายงานเหตุที่นี่</string>
+    <string name="homelist">รายการบ้าน</string>
+
+    <string name="risk_health">พฤติกรรมเสี่ยงต่อสุขภาพ</string>
+    <string name="data_not_complete_effect_to_genogram">แจ้งเตือน: พบข้อมูลบางส่วนไม่สมบูรณ์\nอาจทำให้การแสดงผังเครือญาติผิดพลาด</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
